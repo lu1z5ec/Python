@@ -18,7 +18,5 @@ turtle.right(90)
 turtle.forward(200)
 turtle.right(90)
 
-
-
 # done() 화면에 출력
 turtle.done()
