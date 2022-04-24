@@ -6,20 +6,19 @@ import turtle
 turtle.shape('turtle')
 
 #오른쪽 90도 회전 / forward : 앞으로 200 이동
+turtle.forward(200)
 turtle.right(90)
-turtle.forward(200)
 
-turtle.left(90)
 turtle.forward(200)
+turtle.right(90)
 
-turtle.left(90)
 turtle.forward(200)
+turtle.right(90)
 
-turtle.left(90)
 turtle.forward(200)
+turtle.right(90)
 
-# back : 뒤로 150 이동
-turtle.back(150)
+
 
 # done() 화면에 출력
 turtle.done()
